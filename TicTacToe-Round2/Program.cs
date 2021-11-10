@@ -11,7 +11,7 @@ namespace TicTacToe_Round2
 
             Console.WriteLine(" 0 |   |   ");
             Console.WriteLine("   |   |   ");
-            Console.WriteLine("   | x |   ");
+            Console.WriteLine("   | x | 0 ");
 
         }
     }

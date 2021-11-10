@@ -9,7 +9,7 @@ namespace TicTacToe_Round3
             Console.WriteLine("Bartol ima x pobjeda i y poraza!");
             Console.WriteLine("Lovre ima z pobjeda i n poraza!");
 
-            Console.WriteLine("   | x | 0 ");
+            Console.WriteLine(" 0 | x | 0 ");
             Console.WriteLine("   |   |   ");
             Console.WriteLine("   |   |   ");
         }

@@ -10,8 +10,9 @@ namespace TicTacToe_Round2
             Console.WriteLine("Lovre ima z pobjeda i n poraza!");
 
             Console.WriteLine(" 0 |   |   ");
-            Console.WriteLine("   |   |   ");
-            Console.WriteLine("   | x | 0 ");
+            Console.WriteLine("   |   | 0 ");
+            Console.WriteLine("   | x | x ");
+
 
         }
     }
